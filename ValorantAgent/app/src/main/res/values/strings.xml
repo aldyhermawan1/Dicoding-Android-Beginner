@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ValorantAgent</string>
+    <string name="nama_agents">Nama Agents</string>
+    <string name="agent_biography">Biografi Agent</string>
+    <string name="agent_role">Role Agent</string>
+    <string name="my_name">Muhammad Reinaldy Hermawan</string>
+    <string name="my_email">aldyjonkunimen@gmail.com</string>
+    <string name="sova_name">Sova</string>
+    <string name="sova_roles">Initiator</string>
+    <string name="sova_bio">Born from the eternal winter of Russia\'s tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.</string>
+    <string name="sova_skill1_desc">EQUIP a bow with a shock bolt. FIRE to send the explosive forward, detonating upon collision and damaging players nearby. HOLD FIRE to extend the range of the projectile. ALTERNATE FIRE to add up to two bounces to this arrow.</string>
+    <string name="sova_skill1_title">Shock Bolt</string>
+    <string name="detail_button">Favorite</string>
+    <string name="agent_picture">agent picture</string>
+    <string name="author">made by aldyhermawan</string>
+</resources>
